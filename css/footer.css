@@ -1,0 +1,10 @@
+.footer{
+    margin-bottom: none;
+    border-top: 0.4px solid #FFF2E7;
+    padding: 32px;
+}
+.footer-img{
+    margin:0 auto;
+    display: block;
+    max-height: 50px;
+}
